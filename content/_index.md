@@ -1,7 +1,7 @@
 ---
 title: "UniRealities"
 date: 2021-07-06T10:31:31+01:00
-draft: true
+draft: false
 ---
 
 **The realities of university revealed**
