@@ -3,6 +3,10 @@ title: "Revision"
 date: 2021-07-07T13:20:22+01:00
 draft: false
 ---
+
+![revision](/images/revision.jpg)
+
+
 ## No mark schemes?
 
 This was probably the biggest change from A-levels to university - some universities do not provide mark schemes at all! 
@@ -39,4 +43,4 @@ Watch this video to find out more!
 
 I find this technique to be helpful just after I do any reading or when I finish watching a lecture. Blurting mind maps are the way to go.
 
-![revision](/images/revision.jpg)
+
