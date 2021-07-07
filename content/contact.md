@@ -1,7 +1,7 @@
 ---
 title: "Contacts"
 date: 2021-07-06T11:57:07+01:00
-draft: true
+draft: false
 menu: "main"
 ---
 For enquiries contact: 
