@@ -6,7 +6,7 @@ draft: false
 <style>
 	.border-left{
 		text-align:left;
-        border-left:5px solid pink;
+        border-left:10px solid pink;
 		 padding-left:2px
 
 	  }
@@ -25,15 +25,15 @@ That is why I am here, as someone who has just finished first year, to guide you
 Read more if you would like a realistic view of life as a university student. 
 
 	
-<h3 style ="border:pink; border-width:2px; border-style:dashed; display:inline; padding: 10px 120px": >Topics I will cover include:</h3>
+<h3 style ="border:pink; border-width:2px; border-style:dashed; display:inline; padding: 10px 120px;font-size: 20px" >Topics I will cover include:</h3>
 
-<p class="border-left"><strong>Getting started at university</strong></p>
+<p class="border-left" style= "font-size: 18px">Getting started at university</p>
 
-<p class="border-left"><strong>Social Life</strong></p> 
+<p class="border-left" style= "font-size: 18px">Social Life</p> 
 
-<p class="border-left"><strong>Revision</strong></p>
+<p class="border-left" style= "font-size: 18px">Revision</p>
 
-<p class="border-left"><strong>Career</strong></p>
+<p class="border-left" style= "font-size: 18px">Career</p>
 
 
 
