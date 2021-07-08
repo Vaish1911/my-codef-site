@@ -3,6 +3,17 @@ title: "UniRealities"
 date: 2021-07-06T10:31:31+01:00
 draft: false
 ---
+<style>
+	.border-left{
+		text-align:left;
+        border-left:5px solid pink;
+		 padding-left:2px
+
+	  }
+</style>
+
+
+
 
 **The realities of university revealed**
 
@@ -13,15 +24,18 @@ That is why I am here, as someone who has just finished first year, to guide you
 
 Read more if you would like a realistic view of life as a university student. 
 
-<h3 style ="border:pink; border-width:2px; border-style:dashed;">Topics I will cover include: </h3>
+	
+<h3 style ="border:pink; border-width:2px; border-style:dashed; display:inline; padding: 10px 120px": >Topics I will cover include:</h3>
 
-<p style= "text-align:left;">- Getting started at university</p>
+<p class="border-left"><strong>Getting started at university</strong></p>
 
-<p style= "text-align:left;">- Social Life</p> 
+<p class="border-left"><strong>Social Life</strong></p> 
 
-<p style= "text-align:left;">- Revision</p>
+<p class="border-left"><strong>Revision</strong></p>
 
-<p style= "text-align:left;">- Career</p>
+<p class="border-left"><strong>Career</strong></p>
+
+
 
 
 
