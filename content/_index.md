@@ -27,7 +27,7 @@ That is why I am here, as someone who has just finished first year, to guide you
 Read more if you would like a realistic view of life as a university student. 
 
 	
-<h3 style ="border:pink; border-width:2px; border-style:dashed; display:inline; padding: 10px 120px;font-size: 20px" >Topics I will cover include:</h3>
+<h3 style ="border:pink; border-width:2px; border-style:dashed; display:inline; padding: 10px 120px;font-size: 20px" >Topics that will be dicussed:</h3>
 
 <p class="border-left" style= "font-size: 18px">Getting started at university</p>
 
