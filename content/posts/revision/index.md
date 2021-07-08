@@ -2,8 +2,8 @@
 title: "Revision"
 date: 2021-07-07T13:20:22+01:00
 draft: false
+author: Vaishnavie Sureshkumar
 ---
-
 ![revision](/images/revision.jpg)
 
 
@@ -42,5 +42,20 @@ Watch this video to find out more!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CgrCo1J9A44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I find this technique to be helpful just after I do any reading or when I finish watching a lecture. Blurting mind maps are the way to go.
+
+3. __Quizlet__
+
+Quizlet is an amazing online platform great for when you are university student. You can make flashcards online and have them with you on your phone anywhere you go! It has test functions to enable active recall so you retain information better. 
+
+I find this particulary useful in testing areas I am unfamiliar with and found it an easy way to plan my revision. 
+
+__Protip: Generous students from previous years at your university have probably made flashcards for most modules, simply search up your module code and with a bit of luck you can find some great resources - saves you the hassle from making flashcards!__
+
+Create a free quizlet account here: [Quizlet Sign Up](https://quizlet.com/sign-up)
+
+
+
+
+
 
 
