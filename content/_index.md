@@ -15,7 +15,9 @@ draft: false
 
 
 
-**The realities of university revealed**
+****
+
+<h3 style ="border:pink; border-width:2px; border-style:dashed; display:inline; padding: 10px 80px ;font-size: 20px" >The realities of university revealed:</h3>
 
 
 Starting your university journey is exciting but as you step into this new stage in your lives, it can be scary and ambiguous. 
