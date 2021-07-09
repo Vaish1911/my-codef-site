@@ -7,6 +7,8 @@ author: Vaishnavie Sureshkumar
 
 Career - it is a big word, but the sooner you start thinking about it, the better you will be in the long run! 
 
+![career](/images/career.jpg)
+
 *How can I find out what I am interested in?* 
 
 - **Career's fairs** 
